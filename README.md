@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development Works.
 - 🌱 I’m currently learning Android Application Development and improving my Problem Solving Skills.
 - 💞️ I also like to do Competitve Programming.
-- 📫 Reach me through
+- 📫 Reach me through<br>
     Linkedin: www.linkedin.com/in/amit-krg  
     Email id: kumar34amit34@gmail.com / amitk.ug19.me@nitp.ac.in
     
