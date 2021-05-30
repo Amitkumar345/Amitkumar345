@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sophomore at NIT Patna
 - 👀 I’m interested in Software Development Works.
 - 🌱 I’m currently learning Android Application Development and improving my Problem Solving Skills.
-<!--- - 💞️ I’m looking to collaborate on ... --->
+- 💞️ I also like to do Competitve Programming.
 - 📫 Reach me through
     Linkedin: www.linkedin.com/in/amit-krg  
     Email id: kumar34amit34@gmail.com / amitk.ug19.me@nitp.ac.in
