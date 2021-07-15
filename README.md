@@ -4,7 +4,7 @@
 - 💞️ I also like to do Competitve Programming.
 - 📫 Reach me through<br>
     Linkedin: www.linkedin.com/in/amit-krg  
-    Email id: kumar34amit34@gmail.com / amitk.ug19.me@nitp.ac.in
+    Email id: kumar34amit34@gmail.com
     
 <!---
 Amitkumar345/Amitkumar345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
