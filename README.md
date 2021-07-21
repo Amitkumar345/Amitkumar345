@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Sophomore at NIT Patna
+- 👋 Hi, I’m pre-final year student at NIT Patna
 - 👀 I’m interested in Software Development Works.
-- 🌱 I’m currently learning Android Application Development and improving my Problem Solving Skills.
+- 🌱 I’m currently improvising my skills in Android Application Development and improving my Problem Solving Skills.
 - 💞️ I also like to do Competitve Programming.
 - 📫 Reach me through<br>
     Linkedin: www.linkedin.com/in/amit-krg  
