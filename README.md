@@ -5,6 +5,7 @@ You can click the Preview link to take a look at your changes.
 - 👋 Hi, I’m final year student at NIT Patna
 - 👀 I’m interested in Software Development Works.
 - 🌱 I’m currently improvising my skills in Android Application Development and improving my Problem Solving Skills.
+- 	Checkout my app: https://play.google.com/store/apps/details?id=com.prodenzo.neXtcaller
 - 💞️ I also like to do Competitve Programming.
 - 📫 Reach me through<br>
     Linkedin: www.linkedin.com/in/amit-krg  
